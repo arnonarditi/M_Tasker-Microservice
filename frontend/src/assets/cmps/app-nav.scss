@@ -1,0 +1,45 @@
+.app-nav {
+  position: relative;
+  min-width: 25%;
+
+  // background: red;
+  & > * {
+    margin-inline-start: 0.5em;
+    color: #fff;
+  }
+  transition: all 0.2s ease-in-out;
+  .close {
+    display: none;
+  }
+
+  @media screen and (max-width: 500px) {
+    background-color: #fff;
+    & > * {
+      color: $clr2;
+    }
+    .close {
+      display: block;
+      position: absolute;
+      top: 1em;
+      left: 0;
+    }
+    top: 0;
+    // left: 0; //for full screen opening
+    transform: translateX(110%);
+    position: fixed;
+    right: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    &.open {
+      z-index: 10;
+      padding-top: 2.5em;
+      transform: translate(0);
+      box-shadow: 0 0 0 100vh #00000080;
+    }
+  }
+  .router-link-exact-active {
+    text-decoration: underline;
+  }
+}

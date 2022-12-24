@@ -1,0 +1,26 @@
+.actions-container {
+  @media (min-width: 500px) {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  button {
+    padding: 5px 10px;
+    color: #fff;
+    border: none;
+  }
+  flex-direction: column;
+  margin-bottom: 1em;
+  .worker {
+    background: orange;
+  }
+  .clear-all {
+    background: red;
+  }
+  .create {
+    background: green;
+  }
+  .generate {
+    background: rgb(57, 124, 240);
+  }
+}

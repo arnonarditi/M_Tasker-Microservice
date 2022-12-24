@@ -1,0 +1,28 @@
+#app {
+  height: 100%;
+  // background: lightblue;
+}
+.app-container {
+  &.main-container {
+    padding: 0;
+    height: 100%;
+    grid-template-rows: 50px 1fr 100px;
+
+    main {
+      overflow-y: auto;
+    }
+
+    header {
+      background: $clr3;
+      color: #fff;
+      // background: lightgreen;
+    }
+
+    footer {
+      background: $clr3;
+    }
+    main {
+      padding: 1em 0;
+    }
+  }
+}

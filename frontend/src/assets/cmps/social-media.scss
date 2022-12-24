@@ -1,0 +1,14 @@
+.social-media {
+  background: $clr3;
+  gap: 1em;
+
+  .fa-brands {
+    background: none;
+    border: none;
+    font-size: 24px;
+    color: #fff;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
