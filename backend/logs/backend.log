@@ -1,0 +1,712 @@
+17.12.2022, 20:49:51 - INFO - Server is running on port: 3030 
+17.12.2022, 20:50:05 - INFO - Server is running on port: 3030 
+17.12.2022, 20:50:10 - DEBUG - Getting Tasks 
+17.12.2022, 20:50:47 - INFO - Server is running on port: 3030 
+17.12.2022, 20:50:55 - INFO - Server is running on port: 3030 
+17.12.2022, 20:50:59 - DEBUG - Getting Tasks 
+17.12.2022, 20:53:26 - INFO - Server is running on port: 3030 
+17.12.2022, 20:54:07 - INFO - Server is running on port: 3030 
+17.12.2022, 20:59:49 - INFO - Server is running on port: 3030 
+17.12.2022, 20:59:54 - INFO - Server is running on port: 3030 
+17.12.2022, 21:01:51 - ERROR - Failed to update task | ReferenceError: taskId is not defined 
+17.12.2022, 21:02:37 - INFO - Server is running on port: 3030 
+17.12.2022, 21:02:39 - ERROR - Failed to update task | ReferenceError: taskToSave is not defined 
+17.12.2022, 21:03:23 - INFO - Server is running on port: 3030 
+17.12.2022, 21:03:25 - ERROR - Failed to update task | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' 
+17.12.2022, 21:03:45 - INFO - Server is running on port: 3030 
+17.12.2022, 21:07:30 - INFO - Server is running on port: 3030 
+17.12.2022, 21:07:32 - ERROR - Failed to update task | ReferenceError: tak is not defined 
+17.12.2022, 21:07:43 - INFO - Server is running on port: 3030 
+17.12.2022, 21:25:22 - INFO - Server is running on port: 3030 
+17.12.2022, 21:26:05 - INFO - Server is running on port: 3030 
+17.12.2022, 21:28:42 - INFO - Server is running on port: 3030 
+17.12.2022, 21:28:49 - INFO - Server is running on port: 3030 
+17.12.2022, 21:29:48 - INFO - Server is running on port: 3030 
+17.12.2022, 21:31:00 - INFO - Server is running on port: 3030 
+17.12.2022, 21:31:56 - INFO - Server is running on port: 3030 
+17.12.2022, 21:32:30 - DEBUG - Getting Tasks 
+17.12.2022, 21:39:24 - INFO - Server is running on port: 3030 
+17.12.2022, 21:40:09 - INFO - Server is running on port: 3030 
+17.12.2022, 21:40:40 - INFO - Server is running on port: 3030 
+17.12.2022, 21:42:33 - INFO - Server is running on port: 3030 
+17.12.2022, 21:42:47 - INFO - Server is running on port: 3030 
+17.12.2022, 21:44:38 - INFO - Server is running on port: 3030 
+17.12.2022, 21:44:47 - INFO - Server is running on port: 3030 
+17.12.2022, 21:44:53 - ERROR - Failed to perform task | High Temparture 
+17.12.2022, 21:45:10 - INFO - Server is running on port: 3030 
+17.12.2022, 21:45:14 - ERROR - Failed to perform task | High Temparture 
+17.12.2022, 21:53:58 - INFO - Server is running on port: 3030 
+19.12.2022, 8:55:49 - INFO - Server is running on port: 3030 
+19.12.2022, 8:56:14 - INFO - Server is running on port: 3030 
+19.12.2022, 8:58:08 - DEBUG - Getting Tasks 
+19.12.2022, 9:00:13 - DEBUG - Getting Tasks 
+19.12.2022, 9:00:15 - DEBUG - Getting Tasks 
+19.12.2022, 9:00:24 - DEBUG - Getting Tasks 
+19.12.2022, 9:00:54 - DEBUG - Getting Tasks 
+19.12.2022, 9:01:49 - DEBUG - Getting Tasks 
+19.12.2022, 9:04:39 - DEBUG - Getting Tasks 
+19.12.2022, 9:06:58 - DEBUG - Getting Tasks 
+19.12.2022, 9:08:42 - ERROR - while finding task worker | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:08:42 - ERROR - Failed to get task | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:08:52 - ERROR - while finding task worker | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:08:52 - ERROR - Failed to get task | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:09:12 - DEBUG - Getting Tasks 
+19.12.2022, 9:11:12 - INFO - Server is running on port: 3030 
+19.12.2022, 9:11:35 - INFO - Server is running on port: 3030 
+19.12.2022, 9:12:14 - DEBUG - Getting Tasks 
+19.12.2022, 9:16:13 - DEBUG - Getting Tasks 
+19.12.2022, 9:16:43 - DEBUG - Getting Tasks 
+19.12.2022, 9:25:25 - DEBUG - Getting Tasks 
+19.12.2022, 9:25:32 - DEBUG - Getting Tasks 
+19.12.2022, 9:25:36 - ERROR - while finding task worker | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:25:36 - ERROR - Failed to get task | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:27:05 - INFO - Server is running on port: 3030 
+19.12.2022, 9:27:10 - INFO - Server is running on port: 3030 
+19.12.2022, 9:27:17 - ERROR - while finding task worker | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:27:17 - ERROR - Failed to get task | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:30:32 - DEBUG - Getting Tasks 
+19.12.2022, 9:30:38 - ERROR - while finding task worker | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:30:38 - ERROR - Failed to get task | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:30:48 - ERROR - while finding task worker | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:30:48 - ERROR - Failed to get task | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+19.12.2022, 9:31:55 - DEBUG - Getting Tasks 
+19.12.2022, 9:32:38 - DEBUG - Getting Tasks 
+19.12.2022, 9:34:02 - DEBUG - Getting Tasks 
+19.12.2022, 9:35:20 - INFO - Server is running on port: 3030 
+19.12.2022, 9:36:16 - INFO - Server is running on port: 3030 
+19.12.2022, 9:37:06 - INFO - Server is running on port: 3030 
+19.12.2022, 9:39:12 - DEBUG - Getting Tasks 
+19.12.2022, 9:39:13 - DEBUG - Getting Tasks 
+19.12.2022, 9:40:32 - INFO - Server is running on port: 3030 
+19.12.2022, 9:41:00 - INFO - Server is running on port: 3030 
+19.12.2022, 9:42:50 - DEBUG - Getting Tasks 
+19.12.2022, 9:43:19 - INFO - Server is running on port: 3030 
+19.12.2022, 9:43:26 - DEBUG - Getting Tasks 
+19.12.2022, 9:43:33 - DEBUG - Getting Tasks 
+19.12.2022, 9:45:39 - DEBUG - Getting Tasks 
+19.12.2022, 9:45:49 - INFO - Server is running on port: 3030 
+19.12.2022, 9:46:01 - INFO - Server is running on port: 3030 
+19.12.2022, 9:46:04 - DEBUG - Getting Tasks 
+19.12.2022, 9:46:45 - INFO - Server is running on port: 3030 
+19.12.2022, 9:46:48 - DEBUG - Getting Tasks 
+19.12.2022, 9:49:25 - INFO - Server is running on port: 3030 
+19.12.2022, 9:49:33 - DEBUG - Getting Tasks 
+19.12.2022, 9:49:46 - INFO - Server is running on port: 3030 
+19.12.2022, 9:49:49 - DEBUG - Getting Tasks 
+19.12.2022, 9:50:30 - INFO - Server is running on port: 3030 
+19.12.2022, 13:48:09 - INFO - Server is running on port: 3030 
+19.12.2022, 13:48:17 - DEBUG - Getting Tasks 
+19.12.2022, 13:52:35 - DEBUG - Getting Tasks 
+19.12.2022, 13:55:38 - INFO - Server is running on port: 3030 
+19.12.2022, 13:55:43 - DEBUG - Getting Tasks 
+19.12.2022, 13:56:25 - INFO - Server is running on port: 3030 
+19.12.2022, 13:56:54 - INFO - Server is running on port: 3030 
+19.12.2022, 13:58:40 - INFO - Server is running on port: 3030 
+19.12.2022, 13:59:08 - DEBUG - Getting Tasks 
+19.12.2022, 13:59:33 - INFO - Server is running on port: 3030 
+19.12.2022, 14:00:00 - INFO - Server is running on port: 3030 
+19.12.2022, 14:01:32 - INFO - Server is running on port: 3030 
+19.12.2022, 14:01:37 - DEBUG - Getting Tasks 
+19.12.2022, 14:02:29 - INFO - Server is running on port: 3030 
+19.12.2022, 14:02:59 - INFO - Server is running on port: 3030 
+19.12.2022, 14:07:09 - INFO - Server is running on port: 3030 
+19.12.2022, 14:12:10 - INFO - Server is running on port: 3030 
+19.12.2022, 14:13:13 - INFO - Server is running on port: 3030 
+19.12.2022, 14:44:12 - INFO - Server is running on port: 3030 
+19.12.2022, 14:44:22 - DEBUG - Getting Tasks 
+19.12.2022, 14:45:12 - DEBUG - Getting Tasks 
+19.12.2022, 14:45:37 - INFO - Server is running on port: 3030 
+19.12.2022, 14:47:49 - DEBUG - Getting Tasks 
+19.12.2022, 14:48:29 - DEBUG - Getting Tasks 
+19.12.2022, 14:50:08 - INFO - Server is running on port: 3030 
+19.12.2022, 14:55:50 - INFO - Server is running on port: 3030 
+19.12.2022, 14:55:58 - DEBUG - Getting Tasks 
+19.12.2022, 14:56:07 - DEBUG - Getting Tasks 
+19.12.2022, 14:56:11 - DEBUG - Getting Tasks 
+19.12.2022, 14:56:12 - DEBUG - Getting Tasks 
+19.12.2022, 14:56:13 - DEBUG - Getting Tasks 
+19.12.2022, 14:56:15 - DEBUG - Getting Tasks 
+19.12.2022, 14:56:17 - DEBUG - Getting Tasks 
+19.12.2022, 14:56:55 - DEBUG - Getting Tasks 
+19.12.2022, 14:57:16 - DEBUG - Getting Tasks 
+19.12.2022, 14:57:18 - DEBUG - Getting Tasks 
+19.12.2022, 14:58:10 - INFO - Server is running on port: 3030 
+19.12.2022, 14:58:18 - DEBUG - Getting Tasks 
+19.12.2022, 14:58:19 - DEBUG - Getting Tasks 
+19.12.2022, 14:58:22 - DEBUG - Getting Tasks 
+19.12.2022, 15:02:47 - INFO - Server is running on port: 3030 
+19.12.2022, 15:03:27 - DEBUG - Getting Tasks 
+19.12.2022, 15:06:13 - INFO - Server is running on port: 3030 
+19.12.2022, 15:06:20 - DEBUG - Getting Tasks 
+19.12.2022, 15:06:49 - INFO - Server is running on port: 3030 
+19.12.2022, 15:06:52 - DEBUG - Getting Tasks 
+19.12.2022, 15:07:05 - INFO - Server is running on port: 3030 
+19.12.2022, 15:07:06 - DEBUG - Getting Tasks 
+19.12.2022, 15:09:24 - DEBUG - Getting Tasks 
+19.12.2022, 15:09:29 - DEBUG - Getting Tasks 
+19.12.2022, 15:09:42 - DEBUG - Getting Tasks 
+19.12.2022, 15:09:43 - DEBUG - Getting Tasks 
+19.12.2022, 15:10:06 - DEBUG - Getting Tasks 
+19.12.2022, 15:10:46 - DEBUG - Getting Tasks 
+19.12.2022, 15:10:55 - DEBUG - Getting Tasks 
+19.12.2022, 15:11:13 - DEBUG - Getting Tasks 
+19.12.2022, 15:11:18 - DEBUG - Getting Tasks 
+19.12.2022, 15:11:36 - INFO - Server is running on port: 3030 
+19.12.2022, 15:12:35 - INFO - Server is running on port: 3030 
+19.12.2022, 15:14:16 - INFO - Server is running on port: 3030 
+19.12.2022, 15:14:20 - DEBUG - Getting Tasks 
+19.12.2022, 15:14:39 - INFO - Server is running on port: 3030 
+19.12.2022, 15:14:53 - DEBUG - Getting Tasks 
+19.12.2022, 15:17:17 - INFO - Server is running on port: 3030 
+19.12.2022, 15:17:45 - DEBUG - Getting Tasks 
+19.12.2022, 15:18:10 - DEBUG - Getting Tasks 
+19.12.2022, 15:18:11 - DEBUG - Getting Tasks 
+19.12.2022, 15:19:00 - INFO - Server is running on port: 3030 
+19.12.2022, 15:19:03 - DEBUG - Getting Tasks 
+19.12.2022, 15:20:50 - DEBUG - Getting Tasks 
+19.12.2022, 15:21:00 - DEBUG - Getting Tasks 
+19.12.2022, 15:21:03 - DEBUG - Getting Tasks 
+19.12.2022, 15:21:06 - DEBUG - Getting Tasks 
+19.12.2022, 15:21:49 - DEBUG - Getting Tasks 
+19.12.2022, 15:28:12 - INFO - Server is running on port: 3030 
+19.12.2022, 15:38:43 - INFO - Server is running on port: 3030 
+19.12.2022, 15:39:00 - DEBUG - Getting Tasks 
+19.12.2022, 15:40:45 - DEBUG - Getting Tasks 
+19.12.2022, 15:40:45 - DEBUG - Getting Tasks 
+19.12.2022, 15:41:00 - DEBUG - Getting Tasks 
+19.12.2022, 15:41:03 - DEBUG - Getting Tasks 
+19.12.2022, 15:41:06 - DEBUG - Getting Tasks 
+19.12.2022, 15:41:11 - DEBUG - Getting Tasks 
+19.12.2022, 15:41:54 - DEBUG - Getting Tasks 
+19.12.2022, 15:41:55 - DEBUG - Getting Tasks 
+19.12.2022, 15:42:05 - DEBUG - Getting Tasks 
+19.12.2022, 15:42:07 - DEBUG - Getting Tasks 
+19.12.2022, 15:43:04 - DEBUG - Getting Tasks 
+19.12.2022, 15:43:04 - DEBUG - Getting Tasks 
+19.12.2022, 15:45:05 - INFO - Server is running on port: 3030 
+19.12.2022, 15:45:23 - DEBUG - Getting Tasks 
+19.12.2022, 15:45:44 - DEBUG - Getting Tasks 
+19.12.2022, 15:45:48 - DEBUG - Getting Tasks 
+19.12.2022, 15:45:54 - DEBUG - Getting Tasks 
+19.12.2022, 15:46:06 - DEBUG - Getting Tasks 
+19.12.2022, 15:46:19 - DEBUG - Getting Tasks 
+19.12.2022, 15:46:41 - DEBUG - Getting Tasks 
+19.12.2022, 15:47:22 - DEBUG - Getting Tasks 
+19.12.2022, 15:47:22 - DEBUG - Getting Tasks 
+19.12.2022, 15:47:22 - INFO - New connected socket [id: oBixOKj5zlH6ikPsAAAC] 
+19.12.2022, 15:47:22 - INFO - New connected socket [id: nPSE8p3SLudry9bRAAAD] 
+19.12.2022, 15:47:24 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 15:47:24 - DEBUG - Getting Tasks 
+19.12.2022, 15:47:24 - INFO - New connected socket [id: r-1gP0KpiSA1tIxdAAAF] 
+19.12.2022, 15:47:40 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 15:47:40 - DEBUG - Getting Tasks 
+19.12.2022, 15:47:40 - INFO - New connected socket [id: wO2c17HQnp1RL5IqAAAH] 
+19.12.2022, 15:48:37 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 15:48:37 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 15:48:38 - DEBUG - Getting Tasks 
+19.12.2022, 15:48:38 - INFO - New connected socket [id: Dqts_JfCbf7uMyz1AAAJ] 
+19.12.2022, 15:48:38 - DEBUG - Getting Tasks 
+19.12.2022, 15:48:38 - INFO - New connected socket [id: zsT1a01kIlpyDA1mAAAL] 
+19.12.2022, 15:49:19 - INFO - Server is running on port: 3030 
+19.12.2022, 15:49:19 - INFO - New connected socket [id: R3m20c-ueA3XrJe7AAAB] 
+19.12.2022, 15:49:21 - INFO - New connected socket [id: dV9SUzV4XdiqPF98AAAD] 
+19.12.2022, 15:50:33 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 15:50:34 - DEBUG - Getting Tasks 
+19.12.2022, 15:50:34 - INFO - New connected socket [id: jo4iw0p86oqr6xh4AAAF] 
+19.12.2022, 15:51:18 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 15:51:19 - DEBUG - Getting Tasks 
+19.12.2022, 15:51:19 - INFO - New connected socket [id: uBykOlsw6-0SvrmhAAAH] 
+19.12.2022, 15:51:46 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 15:51:47 - DEBUG - Getting Tasks 
+19.12.2022, 15:51:47 - INFO - New connected socket [id: FFxoLWxxUdn9DyLvAAAJ] 
+19.12.2022, 15:51:55 - INFO - Server is running on port: 3030 
+19.12.2022, 15:51:55 - INFO - New connected socket [id: JaI1oiXAggc2Z3QJAAAC] 
+19.12.2022, 15:51:55 - INFO - New connected socket [id: yuGp66hnbjiOKwKMAAAD] 
+19.12.2022, 15:51:58 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 15:51:58 - DEBUG - Getting Tasks 
+19.12.2022, 15:51:58 - INFO - New connected socket [id: ZzLnbNXcKPOOC72OAAAF] 
+19.12.2022, 15:52:12 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 15:52:13 - DEBUG - Getting Tasks 
+19.12.2022, 15:52:13 - INFO - New connected socket [id: r4ap4PS7t1JDxj8UAAAH] 
+19.12.2022, 15:53:17 - INFO - Server is running on port: 3030 
+19.12.2022, 15:53:18 - INFO - New connected socket [id: -gRTFvCCGTzBgVOsAAAC] 
+19.12.2022, 15:53:18 - INFO - New connected socket [id: B_3BmAMDzPMSrKfyAAAD] 
+19.12.2022, 16:09:10 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 16:40:07 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 19:17:14 - INFO - New connected socket [id: DrvtssR5vYS3bXHpAAAF] 
+19.12.2022, 19:17:14 - INFO - Socket disconnected [id: undefined] 
+19.12.2022, 19:17:15 - DEBUG - Getting Tasks 
+19.12.2022, 19:17:15 - INFO - New connected socket [id: cNoYn8UIWXs4U36DAAAH] 
+23.12.2022, 10:19:10 - INFO - Server is running on port: 3030 
+23.12.2022, 10:19:34 - INFO - New connected socket [id: fTM1HkAqQO-qI4OfAAAB] 
+23.12.2022, 10:19:36 - DEBUG - Getting Tasks 
+23.12.2022, 10:19:44 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:19:44 - DEBUG - Getting Tasks 
+23.12.2022, 10:19:44 - INFO - New connected socket [id: nCInCre4w5we51h-AAAD] 
+23.12.2022, 10:20:33 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:20:34 - DEBUG - Getting Tasks 
+23.12.2022, 10:20:34 - INFO - New connected socket [id: q8c1z7Q9_6kM0ehTAAAF] 
+23.12.2022, 10:20:41 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:20:41 - DEBUG - Getting Tasks 
+23.12.2022, 10:20:41 - INFO - New connected socket [id: T6LqNJAf_UpAYTsjAAAH] 
+23.12.2022, 10:20:42 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:20:42 - DEBUG - Getting Tasks 
+23.12.2022, 10:20:42 - INFO - New connected socket [id: q1kPN1MP0nBI_kTwAAAJ] 
+23.12.2022, 10:20:43 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:20:43 - DEBUG - Getting Tasks 
+23.12.2022, 10:20:43 - INFO - New connected socket [id: d4cJYaI7pUF9pCxyAAAL] 
+23.12.2022, 10:21:08 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:21:08 - DEBUG - Getting Tasks 
+23.12.2022, 10:21:08 - INFO - New connected socket [id: qrLXCVBExkS42EtsAAAN] 
+23.12.2022, 10:21:18 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:21:20 - INFO - New connected socket [id: t_eeo7u1cqEOZqjiAAAP] 
+23.12.2022, 10:21:24 - DEBUG - Getting Tasks 
+23.12.2022, 10:23:52 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:23:52 - DEBUG - Getting Tasks 
+23.12.2022, 10:23:52 - INFO - New connected socket [id: jlU2mdQ7Zt-GxHVeAAAR] 
+23.12.2022, 10:40:24 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:40:25 - DEBUG - Getting Tasks 
+23.12.2022, 10:40:25 - INFO - New connected socket [id: HEz3i0GFUlCZa2JzAAAT] 
+23.12.2022, 10:40:57 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:40:58 - DEBUG - Getting Tasks 
+23.12.2022, 10:40:58 - INFO - New connected socket [id: flDIsGzI-0sSkwYwAAAV] 
+23.12.2022, 10:41:22 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:41:23 - DEBUG - Getting Tasks 
+23.12.2022, 10:41:23 - INFO - New connected socket [id: 6ZV-FJXNUD1HsB4RAAAX] 
+23.12.2022, 10:43:46 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:43:46 - DEBUG - Getting Tasks 
+23.12.2022, 10:43:46 - INFO - New connected socket [id: wqMATRmzxkjMtBzZAAAZ] 
+23.12.2022, 10:44:08 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:44:08 - DEBUG - Getting Tasks 
+23.12.2022, 10:44:08 - INFO - New connected socket [id: bNw6pS_YhI4UwnOgAAAb] 
+23.12.2022, 10:44:52 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:44:52 - DEBUG - Getting Tasks 
+23.12.2022, 10:44:52 - INFO - New connected socket [id: sA69Bv0e1REHDSIFAAAd] 
+23.12.2022, 10:45:48 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:45:48 - DEBUG - Getting Tasks 
+23.12.2022, 10:45:48 - INFO - New connected socket [id: FvskGIjbju_-_0BHAAAf] 
+23.12.2022, 10:45:49 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:45:49 - DEBUG - Getting Tasks 
+23.12.2022, 10:45:49 - INFO - New connected socket [id: 4PzRgfi3yjplEvmfAAAh] 
+23.12.2022, 10:46:03 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:46:15 - DEBUG - Getting Tasks 
+23.12.2022, 10:46:15 - INFO - New connected socket [id: 6Cj2Dq2qhFpUS06lAAAj] 
+23.12.2022, 10:48:44 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:48:44 - DEBUG - Getting Tasks 
+23.12.2022, 10:48:44 - INFO - New connected socket [id: l6F-qx-5besouy4AAAAl] 
+23.12.2022, 10:48:53 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:48:53 - DEBUG - Getting Tasks 
+23.12.2022, 10:48:53 - INFO - New connected socket [id: z_QO0oQVOqPS4lXiAAAn] 
+23.12.2022, 10:48:55 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:48:55 - DEBUG - Getting Tasks 
+23.12.2022, 10:48:55 - INFO - New connected socket [id: -0f1kIVG6UhS2fENAAAp] 
+23.12.2022, 10:49:21 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:49:21 - INFO - New connected socket [id: OzXTwrxhN3S8G1noAAAr] 
+23.12.2022, 10:49:22 - DEBUG - Getting Tasks 
+23.12.2022, 10:49:41 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:49:42 - DEBUG - Getting Tasks 
+23.12.2022, 10:49:42 - INFO - New connected socket [id: rttiicajwBoBGBTQAAAt] 
+23.12.2022, 10:50:24 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:50:25 - DEBUG - Getting Tasks 
+23.12.2022, 10:50:25 - INFO - New connected socket [id: fV8gmNQSeQfr75U8AAAv] 
+23.12.2022, 10:51:11 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:51:11 - DEBUG - Getting Tasks 
+23.12.2022, 10:51:11 - INFO - New connected socket [id: 0SQH84srFWF4LBXYAAAx] 
+23.12.2022, 10:56:15 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 10:56:16 - DEBUG - Getting Tasks 
+23.12.2022, 10:56:16 - INFO - New connected socket [id: 2xdTygWfad3d2MKwAAAz] 
+23.12.2022, 11:01:56 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 11:04:17 - DEBUG - Getting Tasks 
+23.12.2022, 11:04:17 - INFO - New connected socket [id: 7t3aK-dGLAdXouy1AAA2] 
+23.12.2022, 11:32:05 - INFO - Server is running on port: 3030 
+23.12.2022, 11:32:06 - INFO - New connected socket [id: spc1um5MEXKlpcWjAAAB] 
+23.12.2022, 11:32:13 - INFO - Server is running on port: 3030 
+23.12.2022, 11:32:14 - INFO - New connected socket [id: q4gha6PPfTRj1w2iAAAB] 
+23.12.2022, 11:32:20 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 11:32:20 - DEBUG - Getting Tasks 
+23.12.2022, 11:32:20 - INFO - New connected socket [id: n9rxAhCVC-Wp7pC9AAAD] 
+23.12.2022, 13:50:38 - INFO - Server is running on port: 3030 
+23.12.2022, 13:50:57 - INFO - Server is running on port: 3030 
+23.12.2022, 13:50:59 - INFO - Server is running on port: 3030 
+23.12.2022, 13:52:19 - DEBUG - Getting Tasks 
+23.12.2022, 13:52:19 - INFO - New connected socket [id: JCFYHhFSeC-dJWsiAAAB] 
+23.12.2022, 13:52:21 - INFO - New connected socket [id: IucQovNLpmZx4w7TAAAD] 
+23.12.2022, 13:52:23 - DEBUG - Getting Tasks 
+23.12.2022, 13:53:41 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:53:41 - DEBUG - Getting Tasks 
+23.12.2022, 13:53:42 - INFO - New connected socket [id: OWLiHMmlt8vRY5gyAAAF] 
+23.12.2022, 13:54:13 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:54:13 - DEBUG - Getting Tasks 
+23.12.2022, 13:54:13 - INFO - New connected socket [id: aq6KRlfe4rpg8cGCAAAH] 
+23.12.2022, 13:54:15 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:54:15 - DEBUG - Getting Tasks 
+23.12.2022, 13:54:15 - INFO - New connected socket [id: qoq2gHnOQ2M6px-FAAAJ] 
+23.12.2022, 13:54:16 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:54:16 - DEBUG - Getting Tasks 
+23.12.2022, 13:54:16 - INFO - New connected socket [id: R8Lc_td_Yru-zLnaAAAL] 
+23.12.2022, 13:54:30 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:54:31 - DEBUG - Getting Tasks 
+23.12.2022, 13:54:31 - INFO - New connected socket [id: kL9KjLW_Z9nhHOOGAAAN] 
+23.12.2022, 13:54:32 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:54:32 - DEBUG - Getting Tasks 
+23.12.2022, 13:54:32 - INFO - New connected socket [id: MNMYYgSt57V8bGRkAAAP] 
+23.12.2022, 13:54:32 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:54:33 - DEBUG - Getting Tasks 
+23.12.2022, 13:54:33 - INFO - New connected socket [id: smrYljylmZigttwfAAAR] 
+23.12.2022, 13:54:33 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:54:34 - DEBUG - Getting Tasks 
+23.12.2022, 13:54:34 - INFO - New connected socket [id: _Qp3j8JMcspDpj8QAAAT] 
+23.12.2022, 13:56:27 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:56:27 - DEBUG - Getting Tasks 
+23.12.2022, 13:56:27 - INFO - New connected socket [id: yZ9EOHXZ6L8fgTaeAAAV] 
+23.12.2022, 13:56:38 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:56:38 - DEBUG - Getting Tasks 
+23.12.2022, 13:56:38 - INFO - New connected socket [id: M7Fy_ftkYfGnOse9AAAX] 
+23.12.2022, 13:57:09 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:57:09 - DEBUG - Getting Tasks 
+23.12.2022, 13:57:09 - INFO - New connected socket [id: FRXeM3SQVs9HLKILAAAZ] 
+23.12.2022, 13:57:15 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:57:15 - DEBUG - Getting Tasks 
+23.12.2022, 13:57:15 - INFO - New connected socket [id: JhvVRNKo0BOAUcWQAAAb] 
+23.12.2022, 13:57:17 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:57:17 - DEBUG - Getting Tasks 
+23.12.2022, 13:57:17 - INFO - New connected socket [id: 2VmPK1-vBpf54VusAAAd] 
+23.12.2022, 13:59:13 - DEBUG - Getting Tasks 
+23.12.2022, 13:59:13 - DEBUG - Getting Tasks 
+23.12.2022, 13:59:23 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 13:59:23 - DEBUG - Getting Tasks 
+23.12.2022, 13:59:23 - INFO - New connected socket [id: AFyk-hcON93X4iasAAAf] 
+23.12.2022, 14:15:47 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:15:47 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:15:48 - DEBUG - Getting Tasks 
+23.12.2022, 14:15:48 - INFO - New connected socket [id: 3HA0B-qkjI0A6PsVAAAh] 
+23.12.2022, 14:15:48 - DEBUG - Getting Tasks 
+23.12.2022, 14:15:48 - INFO - New connected socket [id: mzebtMSm00aLqkf6AAAj] 
+23.12.2022, 14:16:36 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:16:36 - DEBUG - Getting Tasks 
+23.12.2022, 14:16:36 - INFO - New connected socket [id: Z3B7faZdZVAsaVYBAAAl] 
+23.12.2022, 14:19:10 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:19:10 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:19:10 - DEBUG - Getting Tasks 
+23.12.2022, 14:19:10 - INFO - New connected socket [id: t3i5yKAuMz0smb4MAAAn] 
+23.12.2022, 14:19:10 - DEBUG - Getting Tasks 
+23.12.2022, 14:19:10 - INFO - New connected socket [id: gOkV_BXKKybz-mbjAAAp] 
+23.12.2022, 14:22:06 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:22:06 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:22:06 - DEBUG - Getting Tasks 
+23.12.2022, 14:22:06 - INFO - New connected socket [id: IsCOGMmtUOwZqOdDAAAr] 
+23.12.2022, 14:22:06 - DEBUG - Getting Tasks 
+23.12.2022, 14:22:06 - INFO - New connected socket [id: D6sQVK-MVMJUaDsRAAAt] 
+23.12.2022, 14:22:21 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:22:21 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:22:21 - DEBUG - Getting Tasks 
+23.12.2022, 14:22:21 - INFO - New connected socket [id: zxPl9-2PkocSuQOQAAAv] 
+23.12.2022, 14:22:22 - DEBUG - Getting Tasks 
+23.12.2022, 14:22:22 - INFO - New connected socket [id: hG3E0sMnTyhnHj1sAAAx] 
+23.12.2022, 14:23:23 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:23:23 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:23:24 - DEBUG - Getting Tasks 
+23.12.2022, 14:23:24 - INFO - New connected socket [id: SpI9Q9TX3jpc-GASAAAz] 
+23.12.2022, 14:23:24 - DEBUG - Getting Tasks 
+23.12.2022, 14:23:24 - INFO - New connected socket [id: 3XUn2X7nWYxbg2AHAAA1] 
+23.12.2022, 14:24:33 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:24:34 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:24:34 - DEBUG - Getting Tasks 
+23.12.2022, 14:24:34 - INFO - New connected socket [id: 9TQ4xPu7TNkxWec8AAA3] 
+23.12.2022, 14:24:34 - DEBUG - Getting Tasks 
+23.12.2022, 14:24:34 - INFO - New connected socket [id: lnu7rri5EKnrH5LcAAA5] 
+23.12.2022, 14:25:30 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:25:30 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:25:30 - DEBUG - Getting Tasks 
+23.12.2022, 14:25:30 - INFO - New connected socket [id: 7cXiAXw_I6w57NGrAAA7] 
+23.12.2022, 14:25:31 - DEBUG - Getting Tasks 
+23.12.2022, 14:25:31 - INFO - New connected socket [id: Oro9fMDHSD2xzI8aAAA9] 
+23.12.2022, 14:25:42 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:25:43 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:25:44 - DEBUG - Getting Tasks 
+23.12.2022, 14:25:44 - INFO - New connected socket [id: yDyTv5JBBOK4eKVuAAA_] 
+23.12.2022, 14:25:44 - DEBUG - Getting Tasks 
+23.12.2022, 14:25:44 - INFO - New connected socket [id: ncjdGYYB_2gRILMMAABB] 
+23.12.2022, 14:31:19 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:31:19 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:31:19 - DEBUG - Getting Tasks 
+23.12.2022, 14:31:19 - INFO - New connected socket [id: __Eeiuc-CnFLBxdpAABD] 
+23.12.2022, 14:31:20 - DEBUG - Getting Tasks 
+23.12.2022, 14:31:20 - INFO - New connected socket [id: Q9VyiK6c2_mLXsYnAABF] 
+23.12.2022, 14:31:27 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:31:27 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:31:28 - DEBUG - Getting Tasks 
+23.12.2022, 14:31:28 - INFO - New connected socket [id: xPqW8MlkKwGB7JV8AABH] 
+23.12.2022, 14:31:28 - DEBUG - Getting Tasks 
+23.12.2022, 14:31:28 - INFO - New connected socket [id: _DK6OHmLkh0pMLqhAABJ] 
+23.12.2022, 14:31:44 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:31:44 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:31:45 - DEBUG - Getting Tasks 
+23.12.2022, 14:31:45 - INFO - New connected socket [id: 4DNaIT-Ef2WnU2D0AABL] 
+23.12.2022, 14:31:45 - DEBUG - Getting Tasks 
+23.12.2022, 14:31:45 - INFO - New connected socket [id: dtDg5soHYQvnI-WOAABN] 
+23.12.2022, 14:32:13 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:32:13 - DEBUG - Getting Tasks 
+23.12.2022, 14:32:13 - INFO - New connected socket [id: arL83TP0BQ2EscH_AABP] 
+23.12.2022, 14:32:53 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:32:53 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:32:54 - DEBUG - Getting Tasks 
+23.12.2022, 14:32:54 - INFO - New connected socket [id: 2Bgrv6r0WJwqbklKAABR] 
+23.12.2022, 14:32:54 - DEBUG - Getting Tasks 
+23.12.2022, 14:32:54 - INFO - New connected socket [id: dRYBoadQqzmfHn5sAABT] 
+23.12.2022, 14:33:12 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:33:12 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:33:13 - DEBUG - Getting Tasks 
+23.12.2022, 14:33:13 - INFO - New connected socket [id: lndK-shVcrAdGYtHAABV] 
+23.12.2022, 14:33:14 - DEBUG - Getting Tasks 
+23.12.2022, 14:33:14 - INFO - New connected socket [id: 3bYmZ9YW3cMKltztAABX] 
+23.12.2022, 14:38:01 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:38:01 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:38:02 - DEBUG - Getting Tasks 
+23.12.2022, 14:38:02 - INFO - New connected socket [id: Nw5eOc-ac8_trDl0AABZ] 
+23.12.2022, 14:38:02 - DEBUG - Getting Tasks 
+23.12.2022, 14:38:02 - INFO - New connected socket [id: aedf_Z6Jlib9Qu8oAABb] 
+23.12.2022, 14:40:25 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:50:56 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:50:57 - DEBUG - Getting Tasks 
+23.12.2022, 14:50:57 - INFO - New connected socket [id: BqfP-vW5EB0GZpciAABd] 
+23.12.2022, 14:51:15 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:16 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:16 - INFO - New connected socket [id: ldcJiImLwLjRukWzAABf] 
+23.12.2022, 14:51:21 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:21 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:21 - INFO - New connected socket [id: sgoKAOdZJ89qq39tAABh] 
+23.12.2022, 14:51:24 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:24 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:24 - INFO - New connected socket [id: e4oARiD93rFxC3a9AABj] 
+23.12.2022, 14:51:30 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:30 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:30 - INFO - New connected socket [id: 2gFW20dYNcFuMD9mAABl] 
+23.12.2022, 14:51:32 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:32 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:32 - INFO - New connected socket [id: ADofvLvkMEOIkVoyAABn] 
+23.12.2022, 14:51:33 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:33 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:33 - INFO - New connected socket [id: 8Z46nBlMQh_vt8LlAABp] 
+23.12.2022, 14:51:36 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:36 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:36 - INFO - New connected socket [id: oA7EgpT2iXwgREbXAABr] 
+23.12.2022, 14:51:37 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:37 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:37 - INFO - New connected socket [id: NdRgTofR46pb-A_ZAABt] 
+23.12.2022, 14:51:38 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:38 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:38 - INFO - New connected socket [id: JGa4iXUVjylGqN9sAABv] 
+23.12.2022, 14:51:50 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:50 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:50 - INFO - New connected socket [id: nIG9b1xa2AO_suGaAABx] 
+23.12.2022, 14:51:52 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:51:52 - DEBUG - Getting Tasks 
+23.12.2022, 14:51:52 - INFO - New connected socket [id: dRnpy-J3yunF6SAwAABz] 
+23.12.2022, 14:52:30 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:30 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:30 - INFO - New connected socket [id: nlIULfKbqjmeOga0AAB1] 
+23.12.2022, 14:52:33 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:33 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:33 - INFO - New connected socket [id: erfqepAGAgaWqwLKAAB3] 
+23.12.2022, 14:52:37 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:38 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:38 - INFO - New connected socket [id: VfWG3LQZ2qbm6TCwAAB5] 
+23.12.2022, 14:52:39 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:39 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:39 - INFO - New connected socket [id: 8GFNYc5auOPG7kCeAAB7] 
+23.12.2022, 14:52:43 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:43 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:43 - INFO - New connected socket [id: As3o83mwq3c4k3bcAAB9] 
+23.12.2022, 14:52:43 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:43 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:43 - INFO - New connected socket [id: qp0dkDZhX6_rByCsAAB_] 
+23.12.2022, 14:52:44 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:44 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:44 - INFO - New connected socket [id: RLlmuC0fli4r1mK-AACB] 
+23.12.2022, 14:52:45 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:45 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:45 - INFO - New connected socket [id: wXsBG1OUFQ7KuNzwAACD] 
+23.12.2022, 14:52:46 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:46 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:46 - INFO - New connected socket [id: oz3ojZSfMZCA6hIQAACF] 
+23.12.2022, 14:52:46 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:46 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:46 - INFO - New connected socket [id: XrqJYm0rLVdL6hGKAACH] 
+23.12.2022, 14:52:46 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:46 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:46 - INFO - New connected socket [id: 9Xg3AoAAUMeiaKcrAACJ] 
+23.12.2022, 14:52:47 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:47 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:47 - INFO - New connected socket [id: bnwdjvrzdBf4UcHAAACL] 
+23.12.2022, 14:52:47 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:47 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:47 - INFO - New connected socket [id: 6wbfgRYuDpNcgQosAACN] 
+23.12.2022, 14:52:47 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:47 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:47 - INFO - New connected socket [id: a0bsnLq-KVS0r9GxAACP] 
+23.12.2022, 14:52:48 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:48 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:48 - INFO - New connected socket [id: j6eZLhTLUgWHqMnrAACR] 
+23.12.2022, 14:52:48 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:48 - INFO - New connected socket [id: PRyvLngsxKtoY-UzAACT] 
+23.12.2022, 14:52:48 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:48 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:48 - INFO - New connected socket [id: ZRUfHJcET3LuUI9BAACV] 
+23.12.2022, 14:52:49 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:49 - INFO - New connected socket [id: BD1_1HakWpgUm2fDAACX] 
+23.12.2022, 14:52:49 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:52:49 - DEBUG - Getting Tasks 
+23.12.2022, 14:52:49 - INFO - New connected socket [id: 7-HdQyttvlLIr8OlAACZ] 
+23.12.2022, 14:53:09 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:10 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:10 - INFO - New connected socket [id: VAGCD9A4m9S9P1NRAACb] 
+23.12.2022, 14:53:10 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:10 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:10 - INFO - New connected socket [id: nM8_wpO0y6drSUxkAACd] 
+23.12.2022, 14:53:11 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:11 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:11 - INFO - New connected socket [id: n8-osfQ3UA6Qklo4AACf] 
+23.12.2022, 14:53:11 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:11 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:11 - INFO - New connected socket [id: v2eKPWDGTjCzzUwlAACh] 
+23.12.2022, 14:53:11 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:11 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:11 - INFO - New connected socket [id: yZmcLA286dhNdh3uAACj] 
+23.12.2022, 14:53:13 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:13 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:13 - INFO - New connected socket [id: 6fPAUT6hyMOs_T1MAACl] 
+23.12.2022, 14:53:13 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:14 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:14 - INFO - New connected socket [id: vzdBp-EpYZgRnssBAACn] 
+23.12.2022, 14:53:14 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:14 - INFO - New connected socket [id: b4TomIIS-dzVmy3OAACp] 
+23.12.2022, 14:53:14 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:14 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:14 - INFO - New connected socket [id: te4T3TPRZCh2-QUHAACr] 
+23.12.2022, 14:53:15 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:15 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:15 - INFO - New connected socket [id: WRHTfhTIrLgSnhhMAACt] 
+23.12.2022, 14:53:15 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:15 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:15 - INFO - New connected socket [id: fTo0OjPYK4fR0WUaAACv] 
+23.12.2022, 14:53:16 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:16 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:16 - INFO - New connected socket [id: yLkC6KKzC7xoEF3cAACx] 
+23.12.2022, 14:53:16 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:17 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:17 - INFO - New connected socket [id: vMmvjFam0H_cV7KjAACz] 
+23.12.2022, 14:53:17 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:17 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:17 - INFO - New connected socket [id: XZJv5WT11xjWUhX-AAC1] 
+23.12.2022, 14:53:17 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:17 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:17 - INFO - New connected socket [id: uoLOPm_jNcK10kF5AAC3] 
+23.12.2022, 14:53:17 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:17 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:17 - INFO - New connected socket [id: hLLVTk_wRI-L77oCAAC5] 
+23.12.2022, 14:53:18 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:18 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:18 - INFO - New connected socket [id: FL3zUmFaNsOVP2IDAAC7] 
+23.12.2022, 14:53:22 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:22 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:22 - INFO - New connected socket [id: 6e70h1S04jAKYJwRAAC9] 
+23.12.2022, 14:53:22 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:22 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:22 - INFO - New connected socket [id: wa4MaVHqZ2wcGePrAAC_] 
+23.12.2022, 14:53:23 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:23 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:23 - INFO - New connected socket [id: VYFgjmkVVc7dKMtNAADB] 
+23.12.2022, 14:53:23 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:23 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:23 - INFO - New connected socket [id: 0tFmASZSzdZwzWO5AADD] 
+23.12.2022, 14:53:23 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:23 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:23 - INFO - New connected socket [id: g2COg4R2bRMu4a21AADF] 
+23.12.2022, 14:53:24 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:24 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:24 - INFO - New connected socket [id: LHE0Dpg1NNOb3kNFAADH] 
+23.12.2022, 14:53:30 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:30 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:30 - INFO - New connected socket [id: THzQ6gEtCxNC86c8AADJ] 
+23.12.2022, 14:53:30 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:31 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:31 - INFO - New connected socket [id: rIDUGIHiYTGKk1OrAADL] 
+23.12.2022, 14:53:32 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:32 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:32 - INFO - New connected socket [id: VpERZhySFiPLaMyNAADN] 
+23.12.2022, 14:53:33 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:33 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:33 - INFO - New connected socket [id: tN3TMdzMH9bciyfhAADP] 
+23.12.2022, 14:53:33 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:33 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:33 - INFO - New connected socket [id: rhX7rPV1dJjG8hzfAADR] 
+23.12.2022, 14:53:33 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:33 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:49 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:53:49 - DEBUG - Getting Tasks 
+23.12.2022, 14:53:49 - INFO - New connected socket [id: XSxwSNHY9b1mHPbOAADT] 
+23.12.2022, 14:53:59 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:54:29 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:54:29 - DEBUG - Getting Tasks 
+23.12.2022, 14:54:29 - INFO - New connected socket [id: f1IXSYUxXmmOfc_LAADV] 
+23.12.2022, 14:54:30 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:54:31 - DEBUG - Getting Tasks 
+23.12.2022, 14:54:31 - INFO - New connected socket [id: Ke-ycecbw6WazblMAADX] 
+23.12.2022, 14:54:40 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:54:40 - DEBUG - Getting Tasks 
+23.12.2022, 14:54:40 - INFO - New connected socket [id: DgEfleQooLkWYADbAADZ] 
+23.12.2022, 14:58:02 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:58:02 - DEBUG - Getting Tasks 
+23.12.2022, 14:58:02 - INFO - New connected socket [id: Zna2se08QLShTIGNAADb] 
+23.12.2022, 14:59:40 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 14:59:40 - DEBUG - Getting Tasks 
+23.12.2022, 14:59:40 - INFO - New connected socket [id: VCvXbFBmY1YcuW1JAADd] 
+23.12.2022, 15:03:19 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:03:19 - DEBUG - Getting Tasks 
+23.12.2022, 15:03:19 - INFO - New connected socket [id: wBL8oDSQhaeM8-C_AADf] 
+23.12.2022, 15:04:21 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:04:22 - DEBUG - Getting Tasks 
+23.12.2022, 15:04:22 - INFO - New connected socket [id: 8UybKmXG1AF3sgiiAADh] 
+23.12.2022, 15:05:15 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:05:15 - DEBUG - Getting Tasks 
+23.12.2022, 15:05:15 - INFO - New connected socket [id: XWCQ1K2kJmLd9fJtAADj] 
+23.12.2022, 15:06:20 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:06:20 - DEBUG - Getting Tasks 
+23.12.2022, 15:06:20 - INFO - New connected socket [id: 6u16Y3JnV_YmqUsNAADl] 
+23.12.2022, 15:06:37 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:06:37 - DEBUG - Getting Tasks 
+23.12.2022, 15:06:37 - INFO - New connected socket [id: 0mRosbLq6UqIu_QFAADn] 
+23.12.2022, 15:06:38 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:06:38 - DEBUG - Getting Tasks 
+23.12.2022, 15:06:38 - INFO - New connected socket [id: Zgxwjt4AmLpfseEeAADp] 
+23.12.2022, 15:06:39 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:06:39 - DEBUG - Getting Tasks 
+23.12.2022, 15:06:39 - INFO - New connected socket [id: gazp20bYYu3U4I-JAADr] 
+23.12.2022, 15:06:40 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:06:40 - DEBUG - Getting Tasks 
+23.12.2022, 15:06:40 - INFO - New connected socket [id: Ts7stRc96Y-nMYjlAADt] 
+23.12.2022, 15:06:40 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:06:40 - DEBUG - Getting Tasks 
+23.12.2022, 15:06:40 - INFO - New connected socket [id: 1i9NN_gHCT7_2CWzAADv] 
+23.12.2022, 15:06:41 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:06:41 - DEBUG - Getting Tasks 
+23.12.2022, 15:06:41 - INFO - New connected socket [id: qkbfzmvnj1cNoxRIAADx] 
+23.12.2022, 15:11:08 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:11:08 - DEBUG - Getting Tasks 
+23.12.2022, 15:11:08 - INFO - New connected socket [id: 7XJn_c6HCrcv-VHaAADz] 
+23.12.2022, 15:11:43 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:11:43 - INFO - New connected socket [id: kJGOjXiDcfkeWYACAAD1] 
+23.12.2022, 15:11:54 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:11:54 - DEBUG - Getting Tasks 
+23.12.2022, 15:11:54 - INFO - New connected socket [id: b1fzWm5mGpw-rBAPAAD3] 
+23.12.2022, 15:13:43 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:13:44 - DEBUG - Getting Tasks 
+23.12.2022, 15:13:44 - INFO - New connected socket [id: i6IBAFncFeg9xLVhAAD5] 
+23.12.2022, 15:13:45 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:13:45 - DEBUG - Getting Tasks 
+23.12.2022, 15:13:45 - INFO - New connected socket [id: iuGqJ8XEahx6bgzdAAD7] 
+23.12.2022, 15:23:00 - INFO - Socket disconnected [id: undefined] 
+23.12.2022, 15:23:01 - DEBUG - Getting Tasks 
+23.12.2022, 15:23:01 - INFO - New connected socket [id: V-Flmnx--fEwIRbYAAD9] 
+23.12.2022, 15:29:33 - INFO - Socket disconnected [id: undefined] 
